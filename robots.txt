@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abolaji581.github.io/craftsitengdemo/sitemap.xml
